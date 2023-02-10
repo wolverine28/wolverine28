@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+| <a href="https://github.com/wolverine28/wolverine28"><img align="center" src="https://github-readme-stats.lhk6565.vercel.app/api?username=wolverine28&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/wolverine28/wolverine28"><img align="center" src="https://github-readme-stats.wolverine28.vercel.app/api/top-langs/?username=wolverine28&langs_count=3&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
